@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - webview (0.0.1):
+    - Flutter
+    - WKCookieWebView
+  - WKCookieWebView (2.0.1)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - webview (from `.symlinks/plugins/webview/ios`)
+
+SPEC REPOS:
+  trunk:
+    - WKCookieWebView
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  webview:
+    :path: ".symlinks/plugins/webview/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  webview: d024415d00c90d908a9d90a816596c8cdeb4f831
+  WKCookieWebView: 217e362a6633b5fcf6f8f76c89c169b7ba2853ec
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.8.4

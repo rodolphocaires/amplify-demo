@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"fluttertoken43f15feb": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
